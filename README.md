@@ -1,6 +1,12 @@
 # Node StreamElements Info
 Retrieving StreamElements information made easy.
 
+# Installation
+```npm
+npm install streamelements-info
+```
+or clone the repository...
+
 # Usage
 ```js
 const streamElementsInfo = require('streamelements-info');
