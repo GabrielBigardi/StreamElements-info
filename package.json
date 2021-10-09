@@ -1,7 +1,8 @@
 {
   "name": "streamelements-info",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "Retrieving StreamElements information made easy.",
+  "homepage": "https://github.com/GabrielBigardi/StreamElements-info#readme",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,7 +20,14 @@
     "widgets"
   ],
   "author": "Gabriel Bigardi",
+  "bugs": {
+    "url": "https://github.com/GabrielBigardi/StreamElements-info/issues"
+  },
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielBigardi/StreamElements-info.git"
+  },
   "dependencies": {
     "https": "^1.0.0"
   }
