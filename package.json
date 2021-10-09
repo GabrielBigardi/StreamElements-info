@@ -1,0 +1,26 @@
+{
+  "name": "streamelements-info",
+  "version": "1.0.0",
+  "description": "Retrieving StreamElements information made easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "streamelements",
+    "node",
+    "info",
+    "information",
+    "easy",
+    "twitch",
+    "integration",
+    "stream",
+    "elements",
+    "widgets"
+  ],
+  "author": "Gabriel Bigardi",
+  "license": "ISC",
+  "dependencies": {
+    "https": "^1.0.0"
+  }
+}
